@@ -223,7 +223,8 @@ table ol {
 }
 
 .nav a:hover {
-    color: #616060;
+    color: #4b4b4b;
+    /* color: #222222; */
 }
 
 #empty {
