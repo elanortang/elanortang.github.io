@@ -50,8 +50,8 @@ div#contentpane {
     margin-right:auto;
     padding-bottom: 100px;
     color: #2AA198;
-    color: #268BD2;
-    color: #222222;
+    /* color: #268BD2; */
+    /* color: #222222; */
     font-size:100%;
     width: 85%; 
     background-color: #FDF6E3;
