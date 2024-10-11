@@ -91,7 +91,7 @@ div#pagetitle{
 }
 
 #name {
-    vertical-align: top;
+    vertical-align: center;
     text-align: center;
 }
 
@@ -223,7 +223,8 @@ table ol {
 }
 
 .nav a:hover {
-    color: #56706e;
+    color: #455a58;    
+    /* color: #56706e; */
     /* color: #9fd9bb; */
     /* color: #222222; */
 }
