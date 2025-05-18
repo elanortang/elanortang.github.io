@@ -13,7 +13,8 @@ body {
     font-family: "Noto Sans", sans-serif;
     color: #222; 
     /* background-color: #F7F0E0; */
-    background-color: #FDF6E3;
+    /* background-color: #FDF6E3; */
+    background-color: #fafafa;
 }
 
 @-webkit-keyframes fontfix {
@@ -54,7 +55,8 @@ div#contentpane {
     color: #222222;
     font-size:100%;
     width: 85%; 
-    background-color: #FDF6E3;
+    /* background-color: #FDF6E3; */
+    background-color: #f9f9f9;
     clear: both;
     line-height: 150%;
     z-index: 1;
@@ -79,11 +81,13 @@ div#pagetitle{
     margin-bottom: 3%; /*previously 4*/
     display: flex;
     justify-content: center;
+    /* background-color: aliceblue; */
 }
 
 #headerimg {
     margin-left: 100px;
-    border: 2px solid #FDF6E3;
+    /* border: 2px solid #FDF6E3; */
+    border: 2px solid #fafafa;
     width: 150px;
     height: 150px;
     margin-bottom: 10px;
